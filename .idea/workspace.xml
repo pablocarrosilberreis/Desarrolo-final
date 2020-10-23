@@ -10,6 +10,14 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -21,9 +29,14 @@
     </option>
   </component>
   <component name="ProjectId" id="1jHcflgHyPTVZoVFvYoFIP7Mhu0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="402aa575-9f63-436d-86e8-9c9bb92ac222" name="Default Changelist" comment="" />
@@ -33,5 +46,15 @@
       <updated>1603464566781</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="765" y="204" key="#com.intellij.ide.util.MemberChooser" timestamp="1603474499719">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="204" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/0.-1080.1920.1080@0.0.1920.1040" timestamp="1603474499719" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1603469872789">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/0.-1080.1920.1080@0.0.1920.1040" timestamp="1603469872789" />
   </component>
 </project>
